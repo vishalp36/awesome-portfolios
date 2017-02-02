@@ -7,7 +7,7 @@
 
 ## Developers/Designers
 
-- [Rogie King](http://rog.ie/)
+- [Rogie King](http://rog.ie/){:target="_blank"}
 - [Natalya Shelburne](http://www.artist-developer.com/)
 - [Eli Fitch](http://eli.wtf/)
 - [Jake Albaugh](http://jakealbaugh.com/)
